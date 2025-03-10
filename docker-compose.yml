@@ -45,8 +45,8 @@ services:
     volumes:
       - mongo:/data
     environment:
-      - MONGO_INITDB_ROOT_USERNAME=alibou
-      - MONGO_INITDB_ROOT_PASSWORD=alibou
+      - MONGO_INITDB_ROOT_USERNAME=imad
+      - MONGO_INITDB_ROOT_PASSWORD=imad
 
   mongo-express:
     image: mongo-express
