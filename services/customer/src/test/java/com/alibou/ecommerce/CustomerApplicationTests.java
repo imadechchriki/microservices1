@@ -1,11 +1,10 @@
-package com.imad.configserver;
+package com.alibou.ecommerce;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-
-class ConfigServerApplicationTests {
+class CustomerApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,11 +1,10 @@
-package com.imad.configserver;
+package com.imad.discovery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-
-class ConfigServerApplicationTests {
+class DiscoveryApplicationTests {
 
 	@Test
 	void contextLoads() {
