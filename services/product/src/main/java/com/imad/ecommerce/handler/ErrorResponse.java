@@ -1,4 +1,4 @@
-package com.alibou.ecommerce.handler;
+package com.imad.ecommerce.handler;
 
 import java.util.Map;
 
